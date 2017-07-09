@@ -8,6 +8,3 @@ master update
 ### function function function function version
 
 ## 提交了我不需要的信息
-
-
-## hello world
