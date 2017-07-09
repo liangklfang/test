@@ -14,3 +14,7 @@ master update
 ## git ammend
 
 ## git ammend之后
+
+## git ammend1
+
+## git ammend1 revert
