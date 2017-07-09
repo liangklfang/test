@@ -10,3 +10,7 @@ master update
 ## 提交了我不需要的信息
 
 ## git reset错误
+
+## git ammend
+
+## git ammend之后
